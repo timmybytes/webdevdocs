@@ -15,6 +15,7 @@ JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programm
   * [ECMAScript Standard](./javascript.core/javascript.core.ecmascript.md)
   * [DOM](./javascript.core/javascript.core.dom.md)
 * [JavaScript Frameworks](./javascript.frameworks/javascript.frameworks.md)
+* [JavaScript In-Depth](./javascript.indepth/javascript.indepth.md)
 
 ## Resources & Links
 

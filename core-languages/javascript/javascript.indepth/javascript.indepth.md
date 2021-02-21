@@ -30,7 +30,8 @@ The following pages will cover features and functionality of the JavaScript lang
 * eval()
 * Events
   * Bubbling
-* Functions
+* [Functions](./javascript.indepth.functions/javascript.indepth.functions.md)
+  * Closures
   * Arrow Functions
 * Mathematical Evaluation
 * Promises
